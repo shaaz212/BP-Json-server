@@ -1,0 +1,759 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "name": "Beef Chuttathu",
+      "description": "Beef is the best meat",
+      "imageUrl": "https://th.bing.com/th/id/OIP.DH7aP1A4nvYlmfjWmKnMrwHaHa?pid=ImgDet&rs=1",
+      "rate": "250"
+    },
+    {
+      "id": "2",
+      "name": "Thai Chicken",
+      "description": "Made in Thai",
+      "imageUrl": "https://club.cooking/wp-content/uploads/2019/08/Thai-Chicken-02-vertical.jpg",
+      "rate": "310"
+    },
+    {
+      "id": "3",
+      "name": "Tawa Chicken",
+      "description": "Spicy and bold of Indian masala",
+      "imageUrl": "https://www.indiachaatcafedallas.com/images/tandoori-chicken.jpg",
+      "rate": "320"
+    },
+    {
+      "id": "4",
+      "name": "Tawa Fish",
+      "description": "Magic Masala in fish",
+      "imageUrl": "https://th.bing.com/th/id/R.7aa1b630a2c5ad2fb22ead5a01f70f04?rik=X2hDMSa1cCzgeg&riu=http%3a%2f%2fwww.yummyfoodrecipes.in%2fresources%2fpicture%2forg%2fGrilled-Tawa-Fish-Recipe.jpg&ehk=VnORv4OVw3pl4%2fknEZu52b%2f6U20qJewKTVIVnHG%2fghI%3d&risl=&pid=ImgRaw&r=0",
+      "rate": "320"
+    },
+    {
+      "id": "5",
+      "name": "Ayakoora Mango curry",
+      "description": "fish fusion with mango",
+      "imageUrl": "https://i2.wp.com/www.sujiscooking.com/wp-content/uploads/2015/11/fish-mango-curry-recipe.1024x1024.jpg?w=980",
+      "rate": "140"
+    },
+    {
+      "id": "6",
+      "name": "Kadai chicken",
+      "description": "gravified Chicken",
+      "imageUrl": "https://quicklydelicious.files.wordpress.com/2015/01/chicken-kadai-1.jpg",
+      "rate": "260"
+    },
+    {
+      "id": "7",
+      "name": "Kunafa",
+      "description": "Satisfy your sweet cravings",
+      "imageUrl": "https://everylittlecrumb.com/wp-content/uploads/kunafa-lift-pic2-scaled.jpg",
+      "rate": "300"
+    },
+    {
+      "id": "8",
+      "name": "Punjabi Chicken",
+      "description": "bala bala style chicken",
+      "imageUrl": "https://recipes.timesofindia.com/thumb/54674621.cms?imgsize=75409&width=800&height=800",
+      "rate": "620"
+    },
+    {
+      "id": "9",
+      "name": "Crispy Broast",
+      "description": "Chicken got styled ",
+      "imageUrl": "https://th.bing.com/th/id/OIP.LEeE0DygM9KhEiX8bE8C9wHaFa?pid=ImgDet&rs=1",
+      "rate": "400"
+    },
+    {
+      "id": "10",
+      "name": "Green Tea",
+      "description": "Live in Green",
+      "imageUrl": "https://getinfolist.com/wp-content/uploads/2015/11/Green_tea_recipe.jpg",
+      "rate": "70"
+    },
+    {
+      "id": "11",
+      "name": "Medicine tea",
+      "description": "Toxins free",
+      "imageUrl": "https://th.bing.com/th/id/R.b1722f669470953eb89d7e352009151f?rik=0ApEaTbn9nHOlA&riu=http%3a%2f%2fweknowyourdreams.com%2fimages%2ftea%2ftea-05.jpg&ehk=CYdST35Z86eHl4vhiNwiqZQCAtnj8dF6snmCRpFTxmY%3d&risl=&pid=ImgRaw&r=0",
+      "rate": "100"
+    },
+    {
+      "id": "12",
+      "name": "Chai ",
+      "description": "Always love with chai",
+      "imageUrl": "https://im.whatshot.in/img/2020/Apr/istock-864607392-1586434464.jpg",
+      "rate": "10"
+    },
+    {
+      "id": "13",
+      "name": "Lime Mojitho",
+      "description": "Gives cooool",
+      "imageUrl": "https://th.bing.com/th/id/R.4de04c85235db765884b1d7baf6ee522?rik=AswZec6zDMrtbw&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2018%2f07%2f4K-Drink-Mojito-Wallpaper-HQ.jpg&ehk=oJMIJtF%2fZeprRZmBpZTDkgOhnvAEzF6VMz7yRY4X%2fh4%3d&risl=&pid=ImgRaw&r=0",
+      "rate": "60"
+    },
+    {
+      "id": "14",
+      "name": "Blueberry Mojitho",
+      "description": "Filled with berry",
+      "imageUrl": "https://vanillaandbean.com/wp-content/uploads/2018/08/BBMojito-6.jpg",
+      "rate": "90"
+    },
+    {
+      "id": "15",
+      "name": "Black berry Mojitho",
+      "description": "Gives Lightening to body",
+      "imageUrl": "https://thecollegehousewife.com/wp-content/uploads/2022/09/Blackberry-Bourbon-Smash-14-1440x2160.jpg",
+      "rate": "90"
+    },
+    {
+      "id": "16",
+      "name": "Passion Fruit Mojitho",
+      "description": "Taken from Nature",
+      "imageUrl": "https://cookienameddesire.com/wp-content/uploads/2016/05/passion-fruit-mojito-recipe-photo-1-360x544.jpg",
+      "rate": "95"
+    },
+    {
+      "id": "17",
+      "name": "StrawBerry Mojitho",
+      "description": "Cute One",
+      "imageUrl": "https://www.platingsandpairings.com/wp-content/uploads/2020/08/strawberry-mojito-recipe-4-1365x2048.jpg",
+      "rate": "90"
+    },
+    {
+      "id": "18",
+      "name": "Prawns Tawa Fish",
+      "description": "Small things can gives more hopes",
+      "imageUrl": "https://homemademe469876202.files.wordpress.com/2020/07/d2649-whatsapp-image-2019-08-23-at-9.18.20-pm-1.jpeg",
+      "rate": "420"
+    },
+    {
+      "id": "19",
+      "name": "Thai Grilled Fish",
+      "description": "Fish Griilled in Thai",
+      "imageUrl": "https://tasteandsee.com/wp-content/uploads/2018/06/Grilled-Chili-Lime-Shrimp-OT-medium-skewer-2.jpg",
+      "rate": "460"
+    },
+    {
+      "id": "20",
+      "name": "Tawa fish",
+      "description": "seems nice",
+      "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Fish-Tawa-Fry.jpg",
+      "rate": "530"
+    },
+    {
+      "id": "21",
+      "name": "Thai Fish Curry",
+      "description": "Thai special in curry",
+      "imageUrl": "https://www.theendlessmeal.com/wp-content/uploads/2021/01/Thai-Fish-Curry-1025x1536.jpg",
+      "rate": "260"
+    },
+    {
+      "id": "22",
+      "name": "Kanthari fish Tawa",
+      "description": "Too Spicy",
+      "imageUrl": "https://3.bp.blogspot.com/-xtrZDhZbLCQ/UXnYu2mglrI/AAAAAAAAI4Q/oloC_8YWK6k/s640/DSC_0023.JPG",
+      "rate": "280"
+    },
+    {
+      "id": "23",
+      "name": "Koonthal Tawa",
+      "description": "koonthaL modified",
+      "imageUrl": "https://i.pinimg.com/736x/c3/eb/78/c3eb78850c0c825cbe2040ce15375570--roast-recipes-fish-recipes.jpg",
+      "rate": "320"
+    },
+    {
+      "id": "24",
+      "name": "Pepper Chicken",
+      "description": "Raped with Pepper",
+      "imageUrl": "https://img.freepik.com/premium-photo/sukha-mutton-chicken-dry-spicy-murgh-goat-meat-served-plate-bowl_466689-82786.jpg?w=996",
+      "rate": "260"
+    },
+    {
+      "id": "25",
+      "name": "Butter Chichekn",
+      "description": "So Soft",
+      "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
+      "rate": "320"
+    },
+    {
+      "id": "26",
+      "name": "Chicken Manchurian",
+      "description": "Looking Good",
+      "imageUrl": "https://res.cloudinary.com/tf-lab/image/upload/w_520,h_520,c_fill,q_auto,f_auto/restaurant/42c9bf9c-fc83-4c9b-b263-018f474d0c53/7dd86109-5628-4d9b-888f-ee397473e80c.jpg",
+      "rate": "450"
+    },
+    {
+      "id": "27",
+      "name": "Garlic Chicken",
+      "description": "Ya its Garlic",
+      "imageUrl": "https://media.30seconds.com/tip/lg/Manchurian-Chicken-Recipe-20176-c12abb41b9-1611269183.jpg",
+      "rate": "460"
+    },
+    {
+      "id": "28",
+      "name": "Chilli Chicken",
+      "description": "Chilli Guuy",
+      "imageUrl": "https://kohinoor-joy.com/wp-content/uploads/2021/02/chilli-chicken-recipe.jpg",
+      "rate": "350"
+    },
+    {
+      "id": "29",
+      "name": "Achayans Chicken Curry",
+      "description": "It have some Kerala Touch",
+      "imageUrl": "https://i.pinimg.com/originals/20/bf/38/20bf38ac921253aba27e6fb30017956f.jpg",
+      "rate": "370"
+    },
+    {
+      "id": "30",
+      "name": "Indian Thali",
+      "description": "Its Enough for today",
+      "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/yvxmgcfgk8an40qvcsff",
+      "rate": "150"
+    },
+    {
+      "id": "31",
+      "name": "Chicken Biriyani",
+      "description": "Its an Emotion",
+      "imageUrl": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1200/https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-12-1200x1799.jpg",
+      "rate": "220"
+    },
+    {
+      "id": "32",
+      "name": "Mutton Biriyani",
+      "description": "One of a Kind",
+      "imageUrl": "https://shop.asanhai.pk/public/storage/media/1y7PR77hJ5Xou1zZiXWft71YMqEDqxLKyIyNnb2z.jpeg",
+      "rate": "280"
+    },
+    {
+      "id": "33",
+      "name": "Kutton Biriyani",
+      "description": "Feels Different",
+      "imageUrl": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/07/mutton-biryani-punjab-grill-scaled.jpg",
+      "rate": "310"
+    },
+    {
+      "id": "34",
+      "name": "Fish Biriyani",
+      "description": "Fish in Rice",
+      "imageUrl": "https://shireenanwer.com/wp-content/uploads/2020/06/fishbiryani-600x600.jpg",
+      "rate": "260"
+    },
+    {
+      "id": "35",
+      "name": "Chicekn Mandhi",
+      "description": "Foriegn Feels",
+      "imageUrl": "https://i.ytimg.com/vi/WBXgmNkyMz4/maxresdefault.jpg",
+      "rate": "490"
+    },
+    {
+      "id": "36",
+      "name": "Kashmiri Naan",
+      "description": "From Kashmiri",
+      "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/fvfwlpn94fmtuvsroqvk",
+      "rate": "55"
+    },
+    {
+      "id": "37",
+      "name": "Kulcha",
+      "description": "Stuffed Bread",
+      "imageUrl": "https://th.bing.com/th/id/OIP.BxgmoPyQrcbQR5K4TWYBMAAAAA?pid=ImgDet&rs=1",
+      "rate": "37"
+    },
+    {
+      "id": "38",
+      "name": "Naan",
+      "description": "Simple but Tasty",
+      "imageUrl": "https://www.platingsandpairings.com/wp-content/uploads/2019/04/homemade-naan-4.jpg",
+      "rate": "36"
+    },
+    {
+      "id": "39",
+      "name": "Roti",
+      "description": "Looks Simple",
+      "imageUrl": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/11/22120901/best-paratha-in-Delhi-1.jpg",
+      "rate": "27"
+    },
+    {
+      "id": "40",
+      "name": "Chapathi",
+      "description": "Good for diet",
+      "imageUrl": "https://i.pinimg.com/736x/37/f8/25/37f825722f9ada0fb5ae086caaac32df.jpg",
+      "rate": "14"
+    },
+    {
+      "id": "41",
+      "name": "Paratha",
+      "description": "Very Tasty",
+      "imageUrl": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Lachha-Paratha-2-1-1200x1800.jpg",
+      "rate": "20"
+    },
+    {
+      "id": "42",
+      "name": "Ice creams",
+      "description": "Take to you to snow",
+      "imageUrl": "https://th.bing.com/th/id/OIP.8MEFP-36nTK4NGuo6UAxKgAAAA?pid=ImgDet&rs=1",
+      "rate": "70"
+    },
+    {
+      "id": "43",
+      "name": "Fruits salad",
+      "description": "Rich in tasty and healthy",
+      "imageUrl": "https://www.wellplated.com/wp-content/uploads/2021/05/Fruit-Salad-with-Dressing.jpg",
+      "rate": "90"
+    },
+    {
+      "id": "44",
+      "name": "Fruits salad with Ice cream",
+      "description": "Loves Both",
+      "imageUrl": "https://i.pinimg.com/originals/b2/21/44/b2214432a4a446266649e67b6f46cd63.jpg",
+      "rate": "120"
+    },
+    {
+      "id": "45",
+      "name": "Falooda",
+      "description": "Dessert with fanbase",
+      "imageUrl": "https://www.theflavorbender.com/wp-content/uploads/2015/05/Falooda-3178-780x1169.jpg",
+      "rate": "145"
+    },
+    {
+      "id": "46",
+      "name": "Royal Falooda",
+      "description": "Queen of Desserts",
+      "imageUrl": "https://th.bing.com/th/id/OIP.W_Ym-g1pa0rBZGjLmx5mPQHaJY?pid=ImgDet&w=494&h=626&rs=1",
+      "rate": "230"
+    },
+    {
+      "id": "47",
+      "name": "Kids Falooda",
+      "description": "Baby falooda with bites",
+      "imageUrl": "https://joyfoodsunshine.com/wp-content/uploads/2019/12/mango-smoothie-recipe-1.jpg",
+      "rate": "90"
+    },
+    {
+      "id": "48",
+      "name": "Kunafae",
+      "description": "Arabian touch",
+      "imageUrl": "https://i.pinimg.com/736x/7c/9e/91/7c9e915b46bb2e8c7164dff45660e144.jpg",
+      "rate": "450"
+    },
+    {
+      "id": "49",
+      "name": "Cake ",
+      "description": "Always special for someone",
+      "imageUrl": "https://images5.alphacoders.com/836/thumb-1920-836830.jpg",
+      "rate": "900"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Highlights",
+      "allfoods": [
+        {
+          "id": "1",
+          "name": "Beef Chuttathu",
+          "description": "Beef is the best meat",
+          "imageUrl": "https://th.bing.com/th/id/OIP.DH7aP1A4nvYlmfjWmKnMrwHaHa?pid=ImgDet&rs=1",
+          "rate": "250"
+        },
+        {
+          "id": "2",
+          "name": "Thai Chicken",
+          "description": "Made in Thai",
+          "imageUrl": "https://club.cooking/wp-content/uploads/2019/08/Thai-Chicken-02-vertical.jpg",
+          "rate": "310"
+        },
+        {
+          "id": "3",
+          "name": "Tawa Chicken",
+          "description": "Spicy and bold of Indian masala",
+          "imageUrl": "https://www.indiachaatcafedallas.com/images/tandoori-chicken.jpg",
+          "rate": "320"
+        },
+        {
+          "id": "4",
+          "name": "Tawa Fish",
+          "description": "Magic Masala in fish",
+          "imageUrl": "https://th.bing.com/th/id/R.7aa1b630a2c5ad2fb22ead5a01f70f04?rik=X2hDMSa1cCzgeg&riu=http%3a%2f%2fwww.yummyfoodrecipes.in%2fresources%2fpicture%2forg%2fGrilled-Tawa-Fish-Recipe.jpg&ehk=VnORv4OVw3pl4%2fknEZu52b%2f6U20qJewKTVIVnHG%2fghI%3d&risl=&pid=ImgRaw&r=0",
+          "rate": "320"
+        },
+        {
+          "id": "5",
+          "name": "Ayakoora Mango curry",
+          "description": "fish fusion with mango",
+          "imageUrl": "https://i2.wp.com/www.sujiscooking.com/wp-content/uploads/2015/11/fish-mango-curry-recipe.1024x1024.jpg?w=980",
+          "rate": "140"
+        },
+        {
+          "id": "6",
+          "name": "Kadai chicken",
+          "description": "gravified Chicken",
+          "imageUrl": "https://quicklydelicious.files.wordpress.com/2015/01/chicken-kadai-1.jpg",
+          "rate": "260"
+        },
+        {
+          "id": "7",
+          "name": "Kunafa",
+          "description": "Satisfy your sweet cravings",
+          "imageUrl": "https://everylittlecrumb.com/wp-content/uploads/kunafa-lift-pic2-scaled.jpg",
+          "rate": "300"
+        },
+        {
+          "id": "8",
+          "name": "Punjabi Chicken",
+          "description": "bala bala style chicken",
+          "imageUrl": "https://recipes.timesofindia.com/thumb/54674621.cms?imgsize=75409&width=800&height=800",
+          "rate": "620"
+        },
+        {
+          "id": "9",
+          "name": "Crispy Broast",
+          "description": "Chicken got styled ",
+          "imageUrl": "https://th.bing.com/th/id/OIP.LEeE0DygM9KhEiX8bE8C9wHaFa?pid=ImgDet&rs=1",
+          "rate": "400"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Drinks",
+      "allfoods": [
+        {
+          "id": "10",
+          "name": "Green Tea",
+          "description": "Live in Green",
+          "imageUrl": "https://getinfolist.com/wp-content/uploads/2015/11/Green_tea_recipe.jpg",
+          "rate": "70"
+        },
+        {
+          "id": "11",
+          "name": "Medicine tea",
+          "description": "Toxins free",
+          "imageUrl": "https://th.bing.com/th/id/R.b1722f669470953eb89d7e352009151f?rik=0ApEaTbn9nHOlA&riu=http%3a%2f%2fweknowyourdreams.com%2fimages%2ftea%2ftea-05.jpg&ehk=CYdST35Z86eHl4vhiNwiqZQCAtnj8dF6snmCRpFTxmY%3d&risl=&pid=ImgRaw&r=0",
+          "rate": "100"
+        },
+        {
+          "id": "12",
+          "name": "Chai ",
+          "description": "Always love with chai",
+          "imageUrl": "https://im.whatshot.in/img/2020/Apr/istock-864607392-1586434464.jpg",
+          "rate": "10"
+        },
+        {
+          "id": "13",
+          "name": "Lime Mojitho",
+          "description": "Gives cooool",
+          "imageUrl": "https://th.bing.com/th/id/R.4de04c85235db765884b1d7baf6ee522?rik=AswZec6zDMrtbw&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2018%2f07%2f4K-Drink-Mojito-Wallpaper-HQ.jpg&ehk=oJMIJtF%2fZeprRZmBpZTDkgOhnvAEzF6VMz7yRY4X%2fh4%3d&risl=&pid=ImgRaw&r=0",
+          "rate": "60"
+        },
+        {
+          "id": "14",
+          "name": "Blueberry Mojitho",
+          "description": "Filled with berry",
+          "imageUrl": "https://vanillaandbean.com/wp-content/uploads/2018/08/BBMojito-6.jpg",
+          "rate": "90"
+        },
+        {
+          "id": "15",
+          "name": "Black berry Mojitho",
+          "description": "Gives Lightening to body",
+          "imageUrl": "https://thecollegehousewife.com/wp-content/uploads/2022/09/Blackberry-Bourbon-Smash-14-1440x2160.jpg",
+          "rate": "90"
+        },
+        {
+          "id": "16",
+          "name": "Passion Fruit Mojitho",
+          "description": "Taken from Nature",
+          "imageUrl": "https://cookienameddesire.com/wp-content/uploads/2016/05/passion-fruit-mojito-recipe-photo-1-360x544.jpg",
+          "rate": "95"
+        },
+        {
+          "id": "17",
+          "name": "StrawBerry Mojitho",
+          "description": "Cute One",
+          "imageUrl": "https://www.platingsandpairings.com/wp-content/uploads/2020/08/strawberry-mojito-recipe-4-1365x2048.jpg",
+          "rate": "90"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Sea Food",
+      "allfoods": [
+        {
+          "id": "18",
+          "name": "Prawns Tawa Fish",
+          "description": "Small things can gives more hopes",
+          "imageUrl": "https://homemademe469876202.files.wordpress.com/2020/07/d2649-whatsapp-image-2019-08-23-at-9.18.20-pm-1.jpeg",
+          "rate": "420"
+        },
+        {
+          "id": "19",
+          "name": "Thai Grilled Fish",
+          "description": "Fish Griilled in Thai",
+          "imageUrl": "https://tasteandsee.com/wp-content/uploads/2018/06/Grilled-Chili-Lime-Shrimp-OT-medium-skewer-2.jpg",
+          "rate": "460"
+        },
+        {
+          "id": "20",
+          "name": "Tawa fish",
+          "description": "seems nice",
+          "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Fish-Tawa-Fry.jpg",
+          "rate": "530"
+        },
+        {
+          "id": "21",
+          "name": "Thai Fish Curry",
+          "description": "Thai special in curry",
+          "imageUrl": "https://www.theendlessmeal.com/wp-content/uploads/2021/01/Thai-Fish-Curry-1025x1536.jpg",
+          "rate": "260"
+        },
+        {
+          "id": "22",
+          "name": "Kanthari fish Tawa",
+          "description": "Too Spicy",
+          "imageUrl": "https://3.bp.blogspot.com/-xtrZDhZbLCQ/UXnYu2mglrI/AAAAAAAAI4Q/oloC_8YWK6k/s640/DSC_0023.JPG",
+          "rate": "280"
+        },
+        {
+          "id": "23",
+          "name": "Koonthal Tawa",
+          "description": "koonthaL modified",
+          "imageUrl": "https://i.pinimg.com/736x/c3/eb/78/c3eb78850c0c825cbe2040ce15375570--roast-recipes-fish-recipes.jpg",
+          "rate": "320"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Poultry",
+      "allfoods": [
+        {
+          "id": "24",
+          "name": "Pepper Chicken",
+          "description": "Raped with Pepper",
+          "imageUrl": "https://img.freepik.com/premium-photo/sukha-mutton-chicken-dry-spicy-murgh-goat-meat-served-plate-bowl_466689-82786.jpg?w=996",
+          "rate": "260"
+        },
+        {
+          "id": "25",
+          "name": "Butter Chichekn",
+          "description": "So Soft",
+          "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
+          "rate": "320"
+        },
+        {
+          "id": "26",
+          "name": "Chicken Manchurian",
+          "description": "Looking Good",
+          "imageUrl": "https://res.cloudinary.com/tf-lab/image/upload/w_520,h_520,c_fill,q_auto,f_auto/restaurant/42c9bf9c-fc83-4c9b-b263-018f474d0c53/7dd86109-5628-4d9b-888f-ee397473e80c.jpg",
+          "rate": "450"
+        },
+        {
+          "id": "27",
+          "name": "Garlic Chicken",
+          "description": "Ya its Garlic",
+          "imageUrl": "https://media.30seconds.com/tip/lg/Manchurian-Chicken-Recipe-20176-c12abb41b9-1611269183.jpg",
+          "rate": "460"
+        },
+        {
+          "id": "28",
+          "name": "Chilli Chicken",
+          "description": "Chilli Guuy",
+          "imageUrl": "https://kohinoor-joy.com/wp-content/uploads/2021/02/chilli-chicken-recipe.jpg",
+          "rate": "350"
+        },
+        {
+          "id": "29",
+          "name": "Achayans Chicken Curry",
+          "description": "It have some Kerala Touch",
+          "imageUrl": "https://i.pinimg.com/originals/20/bf/38/20bf38ac921253aba27e6fb30017956f.jpg",
+          "rate": "370"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "categoryName": "Indian Rices",
+      "allfoods": [
+        {
+          "id": "30",
+          "name": "Indian Thali",
+          "description": "Its Enough for today",
+          "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/yvxmgcfgk8an40qvcsff",
+          "rate": "150"
+        },
+        {
+          "id": "31",
+          "name": "Chicken Biriyani",
+          "description": "Its an Emotion",
+          "imageUrl": "https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1200/https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-12-1200x1799.jpg",
+          "rate": "220"
+        },
+        {
+          "id": "32",
+          "name": "Mutton Biriyani",
+          "description": "One of a Kind",
+          "imageUrl": "https://shop.asanhai.pk/public/storage/media/1y7PR77hJ5Xou1zZiXWft71YMqEDqxLKyIyNnb2z.jpeg",
+          "rate": "280"
+        },
+        {
+          "id": "33",
+          "name": "Kutton Biriyani",
+          "description": "Feels Different",
+          "imageUrl": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/07/mutton-biryani-punjab-grill-scaled.jpg",
+          "rate": "310"
+        },
+        {
+          "id": "34",
+          "name": "Fish Biriyani",
+          "description": "Fish in Rice",
+          "imageUrl": "https://shireenanwer.com/wp-content/uploads/2020/06/fishbiryani-600x600.jpg",
+          "rate": "260"
+        },
+        {
+          "id": "35",
+          "name": "Chicekn Mandhi",
+          "description": "Foriegn Feels",
+          "imageUrl": "https://i.ytimg.com/vi/WBXgmNkyMz4/maxresdefault.jpg",
+          "rate": "490"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "categoryName": "Indian Breads",
+      "allfoods": [
+        {
+          "id": "36",
+          "name": "Kashmiri Naan",
+          "description": "From Kashmiri",
+          "imageUrl": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/fvfwlpn94fmtuvsroqvk",
+          "rate": "55"
+        },
+        {
+          "id": "37",
+          "name": "Kulcha",
+          "description": "Stuffed Bread",
+          "imageUrl": "https://th.bing.com/th/id/OIP.BxgmoPyQrcbQR5K4TWYBMAAAAA?pid=ImgDet&rs=1",
+          "rate": "37"
+        },
+        {
+          "id": "38",
+          "name": "Naan",
+          "description": "Simple but Tasty",
+          "imageUrl": "https://www.platingsandpairings.com/wp-content/uploads/2019/04/homemade-naan-4.jpg",
+          "rate": "36"
+        },
+        {
+          "id": "39",
+          "name": "Roti",
+          "description": "Looks Simple",
+          "imageUrl": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/11/22120901/best-paratha-in-Delhi-1.jpg",
+          "rate": "27"
+        },
+        {
+          "id": "40",
+          "name": "Chapathi",
+          "description": "Good for diet",
+          "imageUrl": "https://i.pinimg.com/736x/37/f8/25/37f825722f9ada0fb5ae086caaac32df.jpg",
+          "rate": "14"
+        },
+        {
+          "id": "41",
+          "name": "Paratha",
+          "description": "Very Tasty",
+          "imageUrl": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Lachha-Paratha-2-1-1200x1800.jpg",
+          "rate": "20"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "categoryName": "Desserts",
+      "allfoods": [
+        {
+          "id": "42",
+          "name": "Ice creams",
+          "description": "Take to you to snow",
+          "imageUrl": "https://th.bing.com/th/id/OIP.8MEFP-36nTK4NGuo6UAxKgAAAA?pid=ImgDet&rs=1",
+          "rate": "70"
+        },
+        {
+          "id": "43",
+          "name": "Fruits salad",
+          "description": "Rich in tasty and healthy",
+          "imageUrl": "https://www.wellplated.com/wp-content/uploads/2021/05/Fruit-Salad-with-Dressing.jpg",
+          "rate": "90"
+        },
+        {
+          "id": "44",
+          "name": "Fruits salad with Ice cream",
+          "description": "Loves Both",
+          "imageUrl": "https://i.pinimg.com/originals/b2/21/44/b2214432a4a446266649e67b6f46cd63.jpg",
+          "rate": "120"
+        },
+        {
+          "id": "45",
+          "name": "Falooda",
+          "description": "Dessert with fanbase",
+          "imageUrl": "https://www.theflavorbender.com/wp-content/uploads/2015/05/Falooda-3178-780x1169.jpg",
+          "rate": "145"
+        },
+        {
+          "id": "46",
+          "name": "Royal Falooda",
+          "description": "Queen of Desserts",
+          "imageUrl": "https://th.bing.com/th/id/OIP.W_Ym-g1pa0rBZGjLmx5mPQHaJY?pid=ImgDet&w=494&h=626&rs=1",
+          "rate": "230"
+        },
+        {
+          "id": "47",
+          "name": "Kids Falooda",
+          "description": "Baby falooda with bites",
+          "imageUrl": "https://joyfoodsunshine.com/wp-content/uploads/2019/12/mango-smoothie-recipe-1.jpg",
+          "rate": "90"
+        },
+        {
+          "id": "48",
+          "name": "Kunafae",
+          "description": "Arabian touch",
+          "imageUrl": "https://i.pinimg.com/736x/7c/9e/91/7c9e915b46bb2e8c7164dff45660e144.jpg",
+          "rate": "450"
+        },
+        {
+          "id": "49",
+          "name": "Cake ",
+          "description": "Always special for someone",
+          "imageUrl": "https://images5.alphacoders.com/836/thumb-1920-836830.jpg",
+          "rate": "900"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "categoryName": "Arabian Magics",
+      "allfoods": [],
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "Thai Chicken",
+      "imageUrl": "https://club.cooking/wp-content/uploads/2019/08/Thai-Chicken-02-vertical.jpg",
+      "rate": "310",
+      "id": 1
+    },
+    {
+      "name": "Chai ",
+      "imageUrl": "https://im.whatshot.in/img/2020/Apr/istock-864607392-1586434464.jpg",
+      "rate": "10",
+      "id": 2
+    },
+    {
+      "name": "Thai Fish Curry",
+      "imageUrl": "https://www.theendlessmeal.com/wp-content/uploads/2021/01/Thai-Fish-Curry-1025x1536.jpg",
+      "rate": "260",
+      "id": 4
+    }
+  ]
+}
